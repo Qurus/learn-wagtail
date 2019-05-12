@@ -6,7 +6,7 @@ All the code in this repository is what you've seen in the Learn Wagtail video c
 The entire Learn Wagtail course, and additional materials, can be found at [https://learnwagtail.com/course/](https://learnwagtail.com/course/). There are more written tutorials on learnwagtail.com.
 
 ### YouTube Playlist
-All the videos are hosted on YouTube as well [https://www.youtube.com/playlist?list=PLMQHMcNi6ocsS8Bfnuy_IDgJ4bHRRrvub](https://www.youtube.com/playlist?list=PLMQHMcNi6ocsS8Bfnuy_IDgJ4bHRRrvub). There's currently over 35 videos to digest. And once again, all the code you see in the videos can be referrenced in this GitHub repository.
+All the videos are hosted on YouTube as well [https://www.youtube.com/playlist?list=PLMQHMcNi6ocsS8Bfnuy_IDgJ4bHRRrvub](https://www.youtube.com/playlist?list=PLMQHMcNi6ocsS8Bfnuy_IDgJ4bHRRrvub). There's currently over 45 videos to digest. And once again, all the code you see in the videos can be referrenced in this GitHub repository.
 
 ### Documentation
 Most of the videos have some form of written tutorial that you can find on the learnwagtail.com website. But please keep in mind that learnwagtail.com is not trying to re-write the [Wagtail Documentation](http://docs.wagtail.io/en/latestl/), it's merely an additional support line. For more clear documentation about feature-specific details, you are always urged to read the Wagtail Docs.
